@@ -1,0 +1,1 @@
+This is a simple console file manager. Basic file operations are available. Such as: creating a file, copying a file, renaming a file, moving a file, checking if a file is in the current directory, deleting a file, and displaying file information.
